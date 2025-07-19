@@ -24,7 +24,28 @@ Books are gret way to start your AI journey, especially if you want to transitio
 
 ---
 ## 📘 AI and LLM Engineering Courses
+### Udemy
+1. [LLM Engineering: Master AI, Large Language Models & Agents](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fllm-engineering-master-ai-and-large-language-models%2F%3FcouponCode%3DST4MT240225A)
+2. [LangChain- Develop LLM-powered applications with LangChain](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flangchain%2F%3FcouponCode%3DST4MT240225A)
+3. [Complete Generative AI Course With Langchain and Huggingface](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomplete-generative-ai-course-with-langchain-and-huggingface%2F%3FcouponCode%3DST4MT240225A)
+4. [Artificial Intelligence A-Z™: Learn How To Build An AI](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fartificial-intelligence-az%2F&u1=javarevisited)
+5. [The Complete Artificial Intelligence and ChatGPT Course](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-artificial-intelligence-and-chat-gpt-course%2F&u1=javarevisited)
+6. [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmachinelearning%2F&u1=javarevisited)
+7. [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeeplearning%2F&u1=javarevisited)
+8. [Generative AI for Beginners](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgenerative-ai-for-beginners-b%2F%3FcouponCode%3DLEADERSALE24A)
+9. [Open-source LLMs: Uncensored & secure AI locally with RAG](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fopen-source-llms-uncensored-secure-ai-locally-with-rag%2F%3FcouponCode%3DST4MT240225A) 
+10. [AI-Agents: Automation & Business with LangChain & LLM Apps](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fai-agents-automation-business-with-langchain-llm-apps%2F%3FcouponCode%3DST4MT240225A)
 
+
+### Educative
+1. [Become an LLM Engineer](https://www.educative.io/path/become-an-llm-engineer?aff=VMMr) (Skill Path | Best for Engineers & Developers)
+2. [Grokking AI for Engineering & Product Managers](https://www.educative.io/courses/grokking-ai-for-engineering-product-managers?aff=VMMr) (Best for Tech Leads and PMs)
+3. [Generative AI Essentials](https://www.educative.io/courses/generative-ai-essentials?aff=VMMr) (Best for Beginners & Tech Enthusiasts)
+4. [Generative AI Essentials](https://www.educative.io/courses/generative-ai-essentials?aff=VMMr) (Best for Beginners & Tech Enthusiasts)
+5. [Code Smarter with Cursor AI Editor](https://www.educative.io/courses/cursor-ai?aff=VMMr) (Best for VS Code Users & Productivity-Focused Developers)
+6. [Become an Agentic AI Expert](https://www.educative.io/path/become-an-agentic-ai-expert?aff=VMMr) (New Skill Path)
+
+### Couresra
 Here are some of the best courses to master AI, LLMs, and their applications:
 
 - [Deep Learning Specialization – Andrew Ng (Coursera)](https://www.coursera.org/specializations/deep-learning)  
