@@ -8,8 +8,7 @@ This repository aims to provide reliable resources that can guide you in buildin
 
 ## 📚AI and LLM Engineering Books
 
-Books are gret way to start your AI journey, especially if you want to transition form Software Engineer to AI Engineer. Here are **10 must-read AI and LLM engineering books** for developers in 2025:
-
+Books are gret way to start your AI journey, especially if you want to transition form Software Engineer to AI Engineer. Here are **10 must-read AI and LLM engineering books** for developers:
 1. [The LLM Engineering Handbook by Paul Iusztin and Maxime Labonne](https://buff.ly/wogklbo)  
 2. [AI Engineering by Chip Huyen](https://buff.ly/Nf1RMHU)  
 3. [Designing Machine Learning Systems by Chip Huyen](https://buff.ly/EfN5uOE)  
@@ -68,6 +67,27 @@ Here are some of the best courses to master AI, LLMs, and their applications:
 
 ---
 
+## YouTube Videos to Learn LLM and Agentic AI
+
+1. LLM Introduction: https://www.youtube.com/watch?v=zjkBMFhNj_g
+
+2. LLMs from Scratch: https://www.youtube.com/watch?v=9vM4p9NN0Ts
+
+3. Agentic AI Overview (Stanford): https://www.youtube.com/watch?v=kJLiOGle3Lw
+
+4. Building and Evaluating Agents: https://www.youtube.com/watch?v=d5EltXhbcfA
+
+5. Building Effective Agents: https://www.youtube.com/watch?v=D7_ipDqhtwk
+
+6. Building Agents with MCP: https://www.youtube.com/watch?v=kQmXtrmQ5Zg
+
+7. Building an Agent from Scratch: https://www.youtube.com/watch?v=xzXdLRUyjUg
+
+8. Philo Agents: https://www.youtube.com/playlist?list=PLacQJwuclt_sV-tfZmpT1Ov6jldHl30NR
+
+---
+
+
 ## 🌐 Best Places to Learn AI and LLM
 
 If you are looking for platforms that offer comprehensive AI and LLM learning materials, explore these:
@@ -89,6 +109,23 @@ If you are looking for platforms that offer comprehensive AI and LLM learning ma
 
 - [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/index)  
   Go-to resource for learning how to use LLMs and transformers in code.
+
+---
+## AI and LLM Engineering Articles
+ - [The Complete AI and LLM Engineering Roadmap: From Beginner to Expert](https://javarevisited.substack.com/p/the-complete-ai-and-llm-engineering)
+ - [AI Fundamentals - Vector Database](https://javarevisited.substack.com/p/ai-fundamentals-vector-databases)
+ - [5 Books to Master Agentic AI and LLM Engineering by Paul Iustzin- author of LLM Engineering Handbook](https://javarevisited.substack.com/p/5-books-to-master-agentic-ai-and?utm_source=publication-search)
+ - [6 Generative AI Courses to learn LLM, ChatGPT, and LangChain](https://javarevisited.substack.com/p/6-generative-ai-courses-to-learn)
+ - [The 3P Architecture: A Deep Dive into Software Agent Design (with Manus AI)](https://javarevisited.substack.com/p/the-3p-architecture-a-deep-dive-into?utm_source=publication-search)
+ - [RAG Fundamentals: Getting Started with Retrieval-Augmented Generation](https://javarevisited.substack.com/p/rag-fundamentals-getting-started?utm_source=publication-search)
+ - [Monolith vs Microservices: The $1M ML Design Decision](https://javarevisited.substack.com/p/monolith-vs-microservices-the-1m?utm_source=publication-search)
+ - [8 Videos You Need to Understand AI Agents (and the Resources I Wish I Had Earlier)](https://medium.com/javarevisited/8-videos-you-need-to-understand-ai-agents-and-the-resources-i-wish-i-had-earlier-93988651460a)
+ - [How to Crack AI/ML/GenAI Interviews?](https://medium.com/javarevisited/how-to-crack-ai-ml-genai-interviews-in-2025-5347c6057d50)
+ - [Top 5 Vector Databases to Learn (with Courses and Books to Master Them)](https://medium.com/javarevisited/top-5-vector-databases-to-learn-in-2025-with-courses-and-books-to-master-them-a555e7154909)
+ - [Top 10 Agentic AI Courses for Beginners & Experienced](https://medium.com/javarevisited/top-10-agentic-ai-courses-for-beginners-experienced-in-2025-6ea7578346f0)
+ - [Top 9 Books to Learn RAG and AI Agents](https://javinpaul.medium.com/top-9-books-to-learn-rag-and-ai-agents-in-2025-e5fc54f44746)
+ - [How I’m Learning Machine Learning and AI](https://medium.com/javarevisited/how-im-learning-machine-learning-and-ai-76c964d34fe5)
+ - [From Zero to AI Engineer: A 5-Step Roadmap to Build and Ship Real AI Systems ](https://medium.com/javarevisited/from-zero-to-ai-engineer-a-5-step-roadmap-to-build-and-ship-real-ai-systems-in-2025-28f866d6f8b7)
 
 ---
 
@@ -152,7 +189,7 @@ Here are some of the best TensorFlow courses and certifications to join:
 - [Deep Learning with TensorFlow 2.0](https://buff.ly/3TrOnn6)  
 - [Machine Learning in JavaScript with TensorFlow.js](https://buff.ly/3Zo6XQJ)  
 - [TensorFlow 2.0: Deep Learning and Artificial Intelligence](https://buff.ly/4daXtvj)  
-- [TensorFlow Developer Certificate in 2025: Zero to Mastery](https://buff.ly/3Bf0MnW)  
+- [TensorFlow Developer Certificate](https://buff.ly/3Bf0MnW)  
 - [More TensorFlow Resources](https://buff.ly/3TQA7oj)
 
 ---
@@ -245,7 +282,12 @@ Here are some essential open-source tools for AI and LLM engineering:
   [https://github.com/wandb/client](https://github.com/wandb/client)
 
 ---
+## [AI and LLM Engineering RoadMap](https://javarevisited.substack.com/p/the-complete-ai-and-llm-engineering)
 
+![e8daef35-b630-4f56-90d0-7b27ed261823_1200x1200](https://github.com/user-attachments/assets/e8c642a8-46bb-4834-8533-700ab56e09d9)
+
+
+---
 
 Feel free to contribute by submitting pull requests with high-quality resources!
 
