@@ -47,22 +47,22 @@ Books are gret way to start your AI journey, especially if you want to transitio
 ### Couresra
 Here are some of the best courses to master AI, LLMs, and their applications:
 
-- [Deep Learning Specialization – Andrew Ng (Coursera)](https://www.coursera.org/specializations/deep-learning)  
+- [Deep Learning Specialization – Andrew Ng (Coursera)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeep-learning)  
   A foundational deep learning series covering neural networks, CNNs, RNNs, and more.
 
-- [Prompt Engineering for ChatGPT (DeepLearning.AI)](https://www.coursera.org/learn/prompt-engineering)  
+- [Prompt Engineering for ChatGPT (DeepLearning.AI)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprompt-engineering)  
   A practical introduction to prompt engineering and working with language models.
 
-- [Large Language Models: Application through Production (DeepLearning.AI)](https://www.coursera.org/learn/large-language-models)  
+- [Generative AI with Large Language Models](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fgenerative-ai-with-llms)  
   Learn how to apply LLMs in real-world products and services.
 
-- [Transformers for NLP (Hugging Face + DeepLearning.AI)](https://www.coursera.org/learn/transformers-nlp)  
+- [Natural Language Processing - Transformers with Hugging Face](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpackt-natural-language-processing-transformers-with-hugging-face-ydvmi)  
   A focused course on transformers and building NLP solutions.
 
-- [Natural Language Processing Specialization (Coursera)](https://www.coursera.org/specializations/natural-language-processing)  
+- [Natural Language Processing Specialization (Coursera)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fnatural-language-processing)  
   Covers core NLP techniques and how to build applications using them.
 
-- [TensorFlow Developer Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/tensorflow-in-practice)  
+- [TensorFlow Developer Professional Certificate (Coursera)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Ftensorflow-in-practice)  
   Master TensorFlow and deep learning to build production-ready AI systems.
 
 ---
@@ -92,7 +92,7 @@ Here are some of the best courses to master AI, LLMs, and their applications:
 
 If you are looking for platforms that offer comprehensive AI and LLM learning materials, explore these:
 
-- [Coursera](https://www.coursera.org)  
+- [Coursera](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F)  
   University-level AI/ML/LLM courses, specialisations, and professional certificates.
 
 - [DeepLearning.AI](https://www.deeplearning.ai)  
@@ -101,7 +101,7 @@ If you are looking for platforms that offer comprehensive AI and LLM learning ma
 - [Hugging Face](https://huggingface.co/learn)  
   The best place to learn practical NLP, transformers, and LLMs from the creators of leading open-source libraries.
 
-- [Udacity](https://www.udacity.com/school-of-ai)  
+- [Udacity](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=53187&murl=https%3A%2F%2Fwww.udacity.com%2Fschool-of-ai)  
   Offers AI nanodegree programs focusing on deep learning, NLP, and production AI systems.
 
 - [Fast.ai](https://course.fast.ai)  
